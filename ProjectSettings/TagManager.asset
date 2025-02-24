@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - doc
+  - workCabinate
+  - rottenFood
+  - cafeDustbin
+  - Mop
+  - MopTemp
+  - cafeStain
+  - door
+  - notes1
+  - notes2
+  - notes3
+  - notes4
+  - corridorStain
+  - waterCan
+  - waterCanTemp
+  - toiletPaper
+  - toiletPaperTemp
+  - BathroomDoor
+  - NormalDoor
+  - SkyboxCamera
+  - button f4
+  - button f5
+  - button f3
+  - button f2
+  - button f1
+  - button f6
+  - exitDoor
+  - BathroomDoorClose
+  - BathroomDoorOpen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
