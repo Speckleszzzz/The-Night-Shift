@@ -25,6 +25,7 @@ Start The Game
 Finish your task and exit the Place
 There are 4 hidden texts around the office (Optional)
 
+
 ## Itch.IO 
 [Click Here to go to my Itch.io Page to view my Games](https://specklez.itch.io/)
 
